@@ -11,7 +11,7 @@ Stay up to date with the weather app, providing you with the latest weather fore
 https://weather111-app.netlify.app/
 
 ### UI
-<img src="src/assets/weather.jpg" width="300">
+<img src="src/assets/weather.jpg" width="500">
 
 ## Project setup
 ```
